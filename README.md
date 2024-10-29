@@ -60,5 +60,3 @@ Checks if score2 is equal or greater than score1 for each pair.
 
 
 
-refferences
-https://www.w3schools.com/python/ref_func_zip.asp
